@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me:
-
+&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/memduh-celil-aydın-444b64216/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/memduh-celil-aydın-444b64216/#gh-dark-mode-only)
-
+&nbsp;&nbsp;
