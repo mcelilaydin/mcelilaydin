@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/memduh-celil-aydın-444b64216/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/memduh-celil-aydın-444b64216/#gh-dark-mode-only)
+
