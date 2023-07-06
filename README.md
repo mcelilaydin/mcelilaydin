@@ -9,4 +9,4 @@
 
 ✨&nbsp;**About Me**
  <p align="left">
-I am a iOS Developer with 2+ years of experience in developing enterprise applications and open-source software.
+I am a iOS Developer with 2+ years of experience in developing enterprise applications and open-source software.I also develop projects with Javascript and VueJs.
